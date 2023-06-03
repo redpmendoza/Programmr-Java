@@ -22,7 +22,6 @@ public class PalindromString{
             if(inp.equals(strn)){
                 flag = 1;
             }
-            
             // End of Solution
 
            if(flag==1)  
