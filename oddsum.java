@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class oddsum{
-    public static void main(String[] atgs){
+    public static void main(String[] args){
+        
         long max=0;
         long sum = 0;
  
