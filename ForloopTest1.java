@@ -8,13 +8,11 @@ class ForloopTest1{
     int size=scanner.nextInt();
 
     // Start of Solution
-    
-    for(int ctr = 0; ctr <= size; ctr++){
+        for(int ctr = 0; ctr <= size; ctr++){
         if(ctr % 2 == 0){
             System.out.println(ctr);
         }
     }
-    
     // End of Solution
 
     }
