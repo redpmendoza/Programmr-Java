@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PrintTraingle{
+class PrintTriangle{
     
     public static void main(String arg[]){
         Scanner scanner = new Scanner(System.in);
